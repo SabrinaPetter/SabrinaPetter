@@ -1,5 +1,5 @@
 
-##Living the dream and pursuing a carreer as a Full Stack dev.
+Living the dream and pursuing a carreer as a Full Stack dev.
 
 🌱 I’m getting started on the path to proficiency on JavaScript, TypeScript, C#, React, Redux, .NET Core, Azure, PowerShell and Docker with Integrify.
 
