@@ -1,10 +1,12 @@
-### Hi there 👋
 
-Living the dream and pursuing a carreer as a Full Stack dev.
+##Living the dream and pursuing a carreer as a Full Stack dev.
 
 🌱 I’m getting started on the path to proficiency on JavaScript, TypeScript, C#, React, Redux, .NET Core, Azure, PowerShell and Docker with Integrify.
 
 <!--
+
+### Hi there 👋
+
 **SabrinaPetter/SabrinaPetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
