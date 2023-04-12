@@ -1,9 +1,11 @@
 
 Living the dream and pursuing a carreer as a Full Stack dev.
 
-🌱 Currently getting started on the path to proficiency in JavaScript, TypeScript, React, Redux, C#,  .NET, SQL and Docker with Integrify.
 
 <!--
+🌱 Currently getting started on the path to proficiency in JavaScript, TypeScript, React, Redux, C#,  .NET, SQL and Docker with Integrify.
+
+
 
 ### Hi there 👋
 
