@@ -10,4 +10,6 @@ My name is Sabrina Petter and I'm a UI/UX designer with a taste for web developm
 HTML5, CSS3, JavaScript, TypeScript, PHP,
 SCSS, Bootstrap, JQuery, Wordpress, React
 
+Git, Docker
+
 <!--![html-five2](https://github.com/SabrinaPetter/SabrinaPetter/assets/91145143/9defe528-288b-4263-a470-c605ea728688)-->
