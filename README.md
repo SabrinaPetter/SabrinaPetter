@@ -9,7 +9,7 @@ My name is Sabrina Petter and I'm a UI/UX designer with a taste for web developm
 ### Languages & Technologies
 HTML5, CSS3, JavaScript, TypeScript, PHP
 
-SCSS, Bootstrap, JQuery, Wordpress, React
+SCSS, Bootstrap, JQuery, Wordpress, React, GSAP
 
 Git, Docker
 
